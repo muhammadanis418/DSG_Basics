@@ -1,1 +1,23 @@
-Eclipse Architecture : It follow RCP Rich Client Platform(RCP).Everthing is plugin
+Development Setup
+RCP & SWT 
+Basic Plugin Project
+
+Eclipse Architecture : It follow RCP Rich Client Platform(RCP).Everthing is plugin.
+SWT : Different Widget are available  like button,Combo etc
+
+
+We have two layer architecture for Frontend we have (ApplicationModel, Rendering Engine, Css Styling, Dependency Injection Services) and for backend we have Equinox runtime OSGi and 
+Emf Core(Eclipse Modeling Framework).
+
+
+Binding : Binding is used to register command with UI and window.
+
+Handler: This Class is extended from Abstarct Handler.
+
+Packaging Strategy : HelloSite -> HelloCat -> HelloFeature 
+
+
+
+
+Reference links: 
+https://www.eclipse.org/swt/widgets/
