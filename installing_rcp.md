@@ -9,4 +9,16 @@ Eclipse Java Development Tools
 Maven Integration for Eclipse
 Eclipse Plug-in Development Environment
 Remote Application Platform
-Eclipse XML Editors and Tools
+Eclipse XML Editors and Tools 
+  
+  For Installing RCP Check "D:\DSG_Basics\Installation.png" 
+     Select Eclipse IDE for RCP and RAP Developer.
+     
+
+
+
+
+References:
+
+To download vist following link
+https://www.eclipse.org/downloads/packages/release/2021-03/r/eclipse-ide-rcp-and-rap-developers
