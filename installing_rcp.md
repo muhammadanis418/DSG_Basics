@@ -11,7 +11,7 @@ Eclipse Plug-in Development Environment
 Remote Application Platform
 Eclipse XML Editors and Tools 
   
-  For Installing RCP Check "D:\DSG_Basics\Installation.png" 
+  For Installing RCP Check Image "Installation.png" 
      Select Eclipse IDE for RCP and RAP Developer.
 
 
