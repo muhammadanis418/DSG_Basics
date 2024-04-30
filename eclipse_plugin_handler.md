@@ -1,6 +1,6 @@
 
 
-
+```java
 public class HelloHandler extends AbstractHandler {
 
 	@Override
@@ -13,6 +13,7 @@ public class HelloHandler extends AbstractHandler {
 		return null;
 	}
 }
+```
 
 <public class HelloHandler extends AbstractHandler >: This line defines a new Java class named HelloHandler that extends the AbstractHandler class. The AbstractHandler class is part of the Jetty server framework and provides a foundation for handling HTTP requests.
 @Override : This annotation indicates that the following method overrides a method from the superclass (in this case, the AbstractHandler class).
