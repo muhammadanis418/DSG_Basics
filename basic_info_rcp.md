@@ -31,5 +31,5 @@ An Eclipse RCP application typically uses the same base components as the Eclips
 4. ### References:
   
 * [More Information Regarding OSGI](https://www.osgi.org/resources/what-is-osgi)
-* [To download vist following link](https://www.eclipse.org/downloads/packages/release/2021-03/r/eclipse-ide-rcp-and-rap-developers)
+
 

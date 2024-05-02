@@ -28,3 +28,4 @@ we can add extension through UI or we can add plugin manually
 
 
 In summary, this XML snippet defines a new command (“HelloWorld Command”) with associated categories, handlers, key bindings, menu items, and toolbar items in the Eclipse IDE. The command’s behavior is implemented by the specified handler class.
+
